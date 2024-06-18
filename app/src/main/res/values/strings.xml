@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Clipboard Blocker</string>
     <string name="app_desc">Taking control your clipboard</string>
+    <string name="home">Home</string>
+    <string name="logs">Logs</string>
+    <string name="settings">Settings</string>
 </resources>

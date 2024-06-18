@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.ClipboardBlocker" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.ClipboardBlocker" parent="Theme.Material3.DynamicColors.DayNight" />
+
+    <style name="Material3.Button" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/white</item>
+    </style>
+
 </resources>
